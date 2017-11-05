@@ -13,7 +13,7 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/bitfinexcom/bitfinex-api-go/utils"
+	"github.com/chrisvasquez/bitfinex-api-go/utils"
 
 	"github.com/gorilla/websocket"
 )
